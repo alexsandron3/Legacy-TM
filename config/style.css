@@ -1,0 +1,26 @@
+body{
+    background-color: #bad49b !important;
+}
+/* ef8613 */
+/* 3ea8b6 */
+.text-invisble{
+    display: none;
+}
+
+.box{
+    height: 100px;
+    width: 50%;
+    border: 1px solid black;
+}
+.box-red{
+    height: 500px;
+    width: auto;
+    border: 1px solid red;
+}
+
+.Assinatura-Linha{
+    margin-top: -1px;
+    position: relative;
+    
+}
+
